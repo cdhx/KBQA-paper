@@ -56,8 +56,10 @@
 
 ## 数据集
 
-1. Constraint-based question answering with knowledge graph(COLING2016)(ComplexQuestion)
-2. The web as a knowledge-base for answering complex questions(NAACL2018)(ComplexWebQuestion)
+1. [ComplexQuestion]: Constraint-based question answering with knowledge graph(COLING2016)
+   微软亚研院周明组提出
+2. [ComplexWebQuestion]: The web as a knowledge-base for answering complex questions(NAACL2018)
+   子问题的回答基于搜索引擎上的RC          
 3. ComplexWebQuestion
 4. (WebQuestion)
 5. (WebQuestionSP)
