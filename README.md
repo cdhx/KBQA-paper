@@ -56,24 +56,32 @@
 
 ## 数据集
 
-1. [ComplexQuestion]: Constraint-based question answering with knowledge graph(COLING2016)
+1. **ComplexQuestion**: Constraint-based question answering with knowledge graph(COLING2016)
    微软亚研院周明组提出
-2. [ComplexWebQuestion]: The web as a knowledge-base for answering complex questions(NAACL2018)
+2. **ComplexWebQuestion**: The web as a knowledge-base for answering complex questions(NAACL2018)
    子问题的回答基于搜索引擎上的RC          
-3. ComplexWebQuestion
-4. (WebQuestion)
-5. (WebQuestionSP)
-6. (SimpleQuestion)https://github.com/askplatypus/wikidata-simplequestions
-7. (QALD series) 资源地址：https://github.com/ag-sc/QALD
-   QALD-7 https://svn.aksw.org/papers/2017/ESWC_2017_QALD/public.pdf  
-   QALD-8 http://ceur-ws.org/Vol-2241/paper-05.pdf
-   QALD-9 http://ceur-ws.org/Vol-2241/paper-06.pdf
-8. (LC-QuAD)http://lc-quad.sda.tech/lcquad1.0.html
-9. (LC-QuAD 2.0)http://lc-quad.sda.tech/
-10. CoQA
-11. GraphQuestion
-12. Free 917
-13. 30M Factoid Question
-14. MetaQA
-15. CSQA
+3. **ComplexWebQuestion**
+4. **WebQuestion**: 
+5. **WebQuestionSP**: 
+6. **SimpleQuestion**: https://github.com/askplatypus/wikidata-simplequestions
+7. **QALD series**: 
+   资源地址：https://github.com/ag-sc/QALD
+   
+   论文
+   QALD-7: https://svn.aksw.org/papers/2017/ESWC_2017_QALD/public.pdf  
+   QALD-8: http://ceur-ws.org/Vol-2241/paper-05.pdf
+   QALD-9: http://ceur-ws.org/Vol-2241/paper-06.pdf
+   
+   评测地址
+   QALD-7: http://gerbil-qa.aksw.org/gerbil/experiment?id=201706300001
+   QALD-8: http://gerbil-qa.aksw.org/gerbil/experiment?id=201710220000
+   QALD-9: http://gerbil-qa.aksw.org/gerbil/experiment?id=201810080002
+8. **LC-QuAD**: http://lc-quad.sda.tech/lcquad1.0.html
+9. **LC-QuAD 2.0**: http://lc-quad.sda.tech/
+10. **CoQA**
+11. **GraphQuestion**
+12. **Free 917**
+13. **30M Factoid Question**
+14. **MetaQA**
+15. **CSQA**
 
