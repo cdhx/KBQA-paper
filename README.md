@@ -1,3 +1,5 @@
+不断完善中
+
 # **KBQA-paper**
 
 ## **KBQA系统**
@@ -34,14 +36,14 @@
 ### **复杂问题分解**
 
 1. Enhancing key-value memory neural networks for knowledge based question answering（NAACL2019）
-2. The web as a knowledge-base for answering complex questions（NAACL2018）基于搜索引擎+RC回答子问题
+2. The web as a knowledge-base for answering complex questions（NAACL2018）基于搜索引擎+RC回答子问题  [GitHub](https://github.com/alontalmor/WebAsKB)
 3. Complex question decomposition for semantic parsing（ACL2020）
 
 ## **综述**
 
 1. Survey on challenges of Question Answering in the Semantic Web（Semantic Web2017）
 2. Core Techniques of Question Answering Systems over Knowledge Bases : a Survey（2017）
-3. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges（2020）阿里巴巴，中文翻译[https://zhuanlan.zhihu.com/p/134090164](https://zhuanlan.zhihu.com/p/134090164)
+3. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges（2020）阿里巴巴，中文翻译：[https://zhuanlan.zhihu.com/p/134090164](https://zhuanlan.zhihu.com/p/134090164)
 4. Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs(2019)
 5. Question Answering over Curated and Open Web Sources (SIGIR2020 Tutorial)  [Slide](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides.pdf) 
 
@@ -122,7 +124,8 @@
 
     简介：30M条问答对
 
-13. **MetaQA**
+13. **MetaQA
+数据集：**[https://drive.google.com/drive/folders/0B-36Uca2AvwhTWVFSUZqRXVtbUE](https://drive.google.com/drive/folders/0B-36Uca2AvwhTWVFSUZqRXVtbUE)
 14. **CSQA**
 15. **ReClor**
 论文: ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning(ICLR2020)
@@ -146,40 +149,10 @@
 
 1. SEMPRE: Semantic Parsing with Execution 斯坦福
 [项目地址](https://nlp.stanford.edu/software/sempre/)     [tutorial](https://github.com/percyliang/sempre/blob/master/TUTORIAL.md)    [GitHub](https://github.com/percyliang/sempre)
+    - **简介：**NL转换成逻辑形式，支持lambda calculus，lambda DCS等
+2. Stanza: A Python NLP Library for Many Human Languages斯坦福官方NLP工具包
+ACL2020 demo
 
-    **简介：**NL转换成逻辑形式，支持lambda calculus，lambda DCS等
+## 其他开源工具
 
-    SEMPRE is a toolkit for training semantic parsers, which map natural language utterances to denotations (answers) via intermediate logical forms. Here's an example for querying databases:
-
-    - Utterance:
-
-        Which college did Obama go to?
-
-    - Logical form:
-
-        (and (Type University) (Education BarackObama))
-
-    - Denotation:
-
-        Occidental College, Columbia University
-
-    Here's another example for programming via natural language:
-
-    - Utterance:
-
-        Compute three plus four.
-
-    - Logical form:
-
-        (call + 3 4)
-
-    - Denotation:
-
-        7
-
-    SEMPRE has the following functionality:
-
-    - It supports many types of logical forms (e.g., [lambda calculus](http://en.wikipedia.org/wiki/Lambda_calculus), [lambda DCS](http://arxiv.org/pdf/1309.4408v2.pdf), Java expressions, etc.), so you can choose whichever one suits your task.
-    - It is agnostic to the construction procedure for building logical forms, which include Combinatory Categorical Grammar (CCG) or something more simplistic. You just specify the combination rules in a domain specific language. Here's a [toy subset of CCG](https://github.com/percyliang/sempre/blob/master/data/unittest-learn-ccg.grammar).
-    - It supports various online learning algorithms that discriminatively train a classifier to maximize denotation accuracy.
-    - It comes with a full copy of Freebase (41M entities, 19K properties, 596M assertions), which has been indexed by [Virtuoso SPARQL engine](http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/). This allows you to immediately start executing logical forms on Freebase.
+1. 中文近义词  [https://github.com/chatopera/Synonyms](https://github.com/chatopera/Synonyms)
