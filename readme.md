@@ -124,7 +124,8 @@ Created: Sep 4, 2020 4:31 PM
 3. **WebQuestion** [train](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/lib/data/webquestions/dataset_11/webquestions.examples.train.json.bz2)   [test](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/lib/data/webquestions/dataset_11/webquestions.examples.test.json.bz2)
 论文：Semantic Parsing on Freebase from Question-Answer Pairs（EMNLP2013斯坦福）
 简介：5810条（3778/2032） 斯坦福大学，根据Google Suggest API构建
-4. **WebQuestionSP**:
+4. **WebQuestionSP**:Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base（ACL 2015）
+微软yih-wen tau
 5. **SimpleQuestion**
 
     论文：[Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/pdf/1506.02075.pdf)（2015）
@@ -150,8 +151,17 @@ Created: Sep 4, 2020 4:31 PM
 
 8. **LC-QuAD**: [http://lc-quad.sda.tech/lcquad1.0.html](http://lc-quad.sda.tech/lcquad1.0.html)
 9. **LC-QuAD 2.0**: [http://lc-quad.sda.tech/](http://lc-quad.sda.tech/)
-10. **CoQA**
-11. **GraphQuestion**  
+10. **KQA Pro** 
+[KQA Pro: A Large-Scale Dataset with Interpretable Programs and Accurate SPARQLs for Complex Question Answering over Knowledge Base(WWW 2021 清华)](https://arxiv.org/abs/2007.03875)
+[github](https://github.com/shijx12/KQAPro_Baselines)
+[homepage](http://thukeg.gitee.io/kqa-pro/)
+wikidata，120K有SPARQL标注，KB子集
+11. **CRONKGQA** 
+[Question Answering over Temporal Knowledge Graphs（ACL2021)](https://aclanthology.org/2021.acl-long.520/)
+[github](https://github.com/apoorvumang/CronKGQA)
+时间问答数据集，wikidata，410K,KB子集
+12. **CoQA**
+13. **GraphQuestion**  
 
     论文：[On Generating Characteristic-rich Question Sets for QA Evaluation](https://www.aclweb.org/anthology/D16-1054/)（2016）
 
