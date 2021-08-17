@@ -28,6 +28,7 @@ Created: Sep 4, 2020 4:31 PM
 
 ### **其他方法**
 1. Case-based Reasoning for Natural Language Queries over Knowledge Bases （Google 2021）
+2. TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph(2021 清华史佳欣)
 
 ### **模板**
 
@@ -56,7 +57,7 @@ Created: Sep 4, 2020 4:31 PM
 4. SPARQA: skeleton-based semantic parsing for complex questions over knowledge bases（AAAI 2020 南京大学）
 5. BREAK it down: A question understanding benchmark(TACL 2019 AI2)
 6. Text modular networks: learning to decompose tasks in the language of existing models(NAACL 2021 AI2)
-7. KQA Pro: A Large-Scale Dataset with Interpretable Programs and Accurate SPARQLs for Complex Question Answering over Knowledge Base（WWW2021 清华）
+7. KQA Pro: A Large-Scale Dataset with Interpretable Programs and Accurate SPARQLs for Complex Question Answering over Knowledge Base（WWW2021 清华史佳欣）
 8. Multi-hop reading comprehension through question decomposition and rescoring(ACL 2019 RC的分解)
 9. Unsupervised question decomposition for question answering （EMNLP 2020 FBAI）
 10. Enhancing key-value memory neural networks for knowledge based question answering（NAACL2019）
