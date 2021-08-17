@@ -71,7 +71,7 @@ Created: Sep 4, 2020 4:31 PM
 5. Scalable knowledge graph construction over text using deep learning based predicate mapping （WWW2019）
 6. Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering(ACL2019 南京大学)
 7. PATTY: A taxonomy of relational patterns with semantic types （EMNLP 2012 马普所）
-8. Towards Combinational Relation Linking over Knowledge Graphs （复旦郑卫国）
+8. Towards Combinational Relation Linking over Knowledge Graphs （复旦）
 
 ### **Entity Linking**
 
