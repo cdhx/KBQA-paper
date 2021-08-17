@@ -13,11 +13,11 @@ Created: Sep 4, 2020 4:31 PM
 
 ### **分阶段生成**
 
-1. Semantic parsing via staged query graph generation: Question answering with knowledge base(ACL2015)
-2. Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base(AAAI2020)东南大学
-3. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases(ACL2020)
-4. Knowledge base question answering via encoding of complex query graphs(EMNLP2018)
-5. A state-transition framework to answer complex questions over knowledge base(EMNLP2018)
+1. Semantic parsing via staged query graph generation: Question answering with knowledge base(ACL2015 MS Wen-tau Yih) SP方法开山之作
+2. Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base(AAAI2020 东南大学陈永锐)
+3. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases(ACL2020 SMU 蓝韵诗)
+4. Knowledge base question answering via encoding of complex query graphs(EMNLP2018 上交)
+5. A state-transition framework to answer complex questions over knowledge base(EMNLP2018 北大胡森)
 6. Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases（ACL2020）
 
 ### **模板**
