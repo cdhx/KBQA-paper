@@ -13,7 +13,7 @@ Created: Sep 4, 2020 4:31 PM
 
 ### **分阶段生成**
 
-1. Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base(AAAI2020)东南大学陈永锐
+1. Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base(AAAI2020)东南大学
 2. Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases(ACL2020)
 3. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases(ACL2020)
 4. Knowledge base question answering via encoding of complex query graphs(EMNLP2018)
@@ -65,11 +65,11 @@ Created: Sep 4, 2020 4:31 PM
 
 ### **Relation Linking/Detection**
 
-**1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text（NAACL 2019）([Falcon系统](https://labs.tib.eu/falcon/) [GitHub](https://github.com/AhmadSakor/falcon))
-2. EARL: Joint entity and relation linking for question answering over knowledge graphs （ISWC 2018）
-3. Leveraging semantic parsing for relation linking over knowledge bases (ISWC2020 IBM Waston) (SOTA)**
-5. FALCON 2.0: An Entity and Relation Linking Tool over Wikidata （ISWC 2019）（[Falcon2.0](https://labs.tib.eu/falcon/falcon2/)  [GitHub](https://github.com/SDM-TIB/Falcon2.0)）（开源系统SOTA）
-4. Scalable knowledge graph construction over text using deep learning based predicate mapping （WWW2019）
+**1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text（NAACL 2019）([Falcon系统](https://labs.tib.eu/falcon/) [GitHub](https://github.com/AhmadSakor/falcon))**
+**2. EARL: Joint entity and relation linking for question answering over knowledge graphs （ISWC 2018）**
+**3. Leveraging semantic parsing for relation linking over knowledge bases (ISWC2020 IBM Waston) (SOTA)**
+4. FALCON 2.0: An Entity and Relation Linking Tool over Wikidata （ISWC 2019）（[Falcon2.0](https://labs.tib.eu/falcon/falcon2/)  [GitHub](https://github.com/SDM-TIB/Falcon2.0)）（开源系统SOTA）
+5. Scalable knowledge graph construction over text using deep learning based predicate mapping （WWW2019）
 6. Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering(ACL2019 南京大学)
 7. PATTY: A taxonomy of relational patterns with semantic types （EMNLP 2012 马普所）
 8. Towards Combinational Relation Linking over Knowledge Graphs （复旦郑卫国）
