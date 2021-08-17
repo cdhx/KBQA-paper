@@ -153,12 +153,17 @@ Created: Sep 4, 2020 4:31 PM
 9. **LC-QuAD 2.0**: [http://lc-quad.sda.tech/](http://lc-quad.sda.tech/)
 10. **KQA Pro** 
 [KQA Pro: A Large-Scale Dataset with Interpretable Programs and Accurate SPARQLs for Complex Question Answering over Knowledge Base(WWW 2021 清华)](https://arxiv.org/abs/2007.03875)
+
 [github](https://github.com/shijx12/KQAPro_Baselines)
+
 [homepage](http://thukeg.gitee.io/kqa-pro/)
+
 wikidata，120K有SPARQL标注，KB子集
 11. **CRONKGQA** 
 [Question Answering over Temporal Knowledge Graphs（ACL2021)](https://aclanthology.org/2021.acl-long.520/)
+
 [github](https://github.com/apoorvumang/CronKGQA)
+
 时间问答数据集，wikidata，410K,KB子集
 12. **CoQA**
 13. **GraphQuestion**  
