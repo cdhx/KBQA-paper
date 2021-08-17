@@ -4,7 +4,6 @@ Created: Sep 4, 2020 4:31 PM
 
 不断完善中，欢迎补充Slide地址~
 
-公众号：知识图谱NJUer,欢迎支持/讨论/批评指正
 
 初衷是对不久前的KBQA调研做一个总结，未来可能会整理成一个多个KG方向资源的仓库
 
@@ -45,15 +44,20 @@ Created: Sep 4, 2020 4:31 PM
 
 1. Enhancing key-value memory neural networks for knowledge based question answering（NAACL2019）
 2. The web as a knowledge-base for answering complex questions（NAACL2018）基于搜索引擎+RC回答子问题  [GitHub](https://github.com/alontalmor/WebAsKB)
-3. Complex question decomposition for semantic parsing（ACL2020）
+3. Complex question decomposition for semantic parsing（ACL 2020）
+4. BREAK it down: A question understanding benchmark(TACL 2019)
+5. Text modular networks: learning to decompose tasks in the language of existing models(NAACL 2021)
+6. Multi-hop reading comprehension through question decomposition and rescoring(ACL 2019 RC的分解)
+7. Unsupervised question decomposition for question answering 
 
 ## **综述**
 
 1. Survey on challenges of Question Answering in the Semantic Web（Semantic Web2017）
-2. Core Techniques of Question Answering Systems over Knowledge Bases : a Survey（2017）
-3. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges（2020）阿里巴巴，中文翻译：[https://zhuanlan.zhihu.com/p/134090164](https://zhuanlan.zhihu.com/p/134090164)
-4. Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs(2019)
-5. Question Answering over Curated and Open Web Sources (SIGIR2020 Tutorial)  [Slide](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides.pdf) 
+2. A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions （IJCAI 22021）
+3. Core Techniques of Question Answering Systems over Knowledge Bases : a Survey（2017）
+4. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges（2020）阿里巴巴，中文翻译：[https://zhuanlan.zhihu.com/p/134090164](https://zhuanlan.zhihu.com/p/134090164)
+5. Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs(2019)
+6. Question Answering over Curated and Open Web Sources (SIGIR2020 Tutorial)  [Slide](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides.pdf) 
 
 ## **子任务**
 
@@ -61,15 +65,22 @@ Created: Sep 4, 2020 4:31 PM
 
 ### **Relation Linking/Detection**
 
-1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text（NAACL 2019）([Falcon系统](https://labs.tib.eu/falcon/) [GitHub](https://github.com/AhmadSakor/falcon))
+**1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text（NAACL 2019）([Falcon系统](https://labs.tib.eu/falcon/) [GitHub](https://github.com/AhmadSakor/falcon))
 2. EARL: Joint entity and relation linking for question answering over knowledge graphs （ISWC 2018）
-3. Scalable knowledge graph construction over text using deep learning based predicate mapping （WWW2019）
-4. FALCON 2.0: An Entity and Relation Linking Tool over Wikidata （ISWC 2019）（[Falcon2.0](https://labs.tib.eu/falcon/falcon2/)  [GitHub](https://github.com/SDM-TIB/Falcon2.0)）（已知开源系统SOTA）
-5. Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering(ACL2019 南京大学)
-6. PATTY: A taxonomy of relational patterns with semantic types （EMNLP 2012 马普所）
-7. Towards Combinational Relation Linking over Knowledge Graphs （复旦郑卫国）
+3. Leveraging semantic parsing for relation linking over knowledge bases (ISWC2020 IBM Waston) (SOTA)**
+5. FALCON 2.0: An Entity and Relation Linking Tool over Wikidata （ISWC 2019）（[Falcon2.0](https://labs.tib.eu/falcon/falcon2/)  [GitHub](https://github.com/SDM-TIB/Falcon2.0)）（开源系统SOTA）
+4. Scalable knowledge graph construction over text using deep learning based predicate mapping （WWW2019）
+6. Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering(ACL2019 南京大学)
+7. PATTY: A taxonomy of relational patterns with semantic types （EMNLP 2012 马普所）
+8. Towards Combinational Relation Linking over Knowledge Graphs （复旦郑卫国）
 
 ### **Entity Linking**
+1. LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking （ACL2021 IBM Waston）
+2. Autoregressive entity retrieval(ICLR 2021 FBAI)
+3. Efficient One-Pass End-to-End Entity Linking for Questions(EMNLP 2020 FBAI)
+4. Scalable Zero-shot Entity Linking with Dense Entity Retrieval(EMNLP 2020 FBAI)
+5. PNEL: Pointer Network based End-To-End Entity Linking over Knowledge Graphs (ISWC 2020)
+6. 
 
 ## **Futrue direction**
 
