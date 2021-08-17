@@ -15,17 +15,26 @@ Created: Sep 4, 2020 4:31 PM
 
 1. Semantic parsing via staged query graph generation: Question answering with knowledge base(ACL2015 MS Wen-tau Yih) SP方法开山之作
 2. Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base(AAAI2020 东南大学陈永锐)
-3. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases(ACL2020 SMU 蓝韵诗)
-4. Knowledge base question answering via encoding of complex query graphs(EMNLP2018 上交)
-5. A state-transition framework to answer complex questions over knowledge base(EMNLP2018 北大胡森)
-6. Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases（ACL2020）
+3. SPARQA: skeleton-based semantic parsing for complex questions over knowledge bases（AAAI 2020 南京大学）
+4. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases(ACL2020 SMU 蓝韵诗)
+5. Knowledge base question answering via encoding of complex query graphs(EMNLP2018 上交)
+6. A state-transition framework to answer complex questions over knowledge base(EMNLP2018 北大胡森)
+7. Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases（ACL2020）
+
+### **IR**
+1. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text（EMNLP 2018 Googel Sun haitian)
+2. PullNet: Open domain question answering with iterative retrieval on knowledge bases and text(EMNLP 2019 Googel Sun haitian)
+3. Improving Multi-hop Knowledge Base Question Answering by Learning Intermediate Supervision Signals（WSDM2021 SMU 蓝韵诗）
+
+### **其他方法**
+1. Case-based Reasoning for Natural Language Queries over Knowledge Bases （Google 2021）
 
 ### **模板**
 
-1. KBQA: Learning question answering over QA corpora and knowledge bases（VLDB2018）
-2. Question answering over knowledge graphs: Question understanding via template decomposition(VLDB2018)
-3. Leveraging frequent query substructures to generate formal queries for complex question answering(EMNLP2019)
-4. Automated template generation for question answering over knowledge graphs(WWW2017)
+1. KBQA: Learning question answering over QA corpora and knowledge bases（PVLDB2018 复旦崔万云）
+2. Question answering over knowledge graphs: Question understanding via template decomposition(PVLDB2018 复旦郑卫国)
+3. Leveraging frequent query substructures to generate formal queries for complex question answering(EMNLP2019 南京大学)
+4. Automated template generation for question answering over knowledge graphs(WWW2017 马普所)
 
 ### **Seq2Seq**
 
@@ -41,20 +50,25 @@ Created: Sep 4, 2020 4:31 PM
 
 ### **复杂问题分解**
 
-1. The web as a knowledge-base for answering complex questions（NAACL2018）基于搜索引擎+RC回答子问题  [GitHub](https://github.com/alontalmor/WebAsKB)
-3. Complex question decomposition for semantic parsing（ACL 2020）
-4. BREAK it down: A question understanding benchmark(TACL 2019)
-5. Text modular networks: learning to decompose tasks in the language of existing models(NAACL 2021)
-6. Multi-hop reading comprehension through question decomposition and rescoring(ACL 2019 RC的分解)
-7. Unsupervised question decomposition for question answering 
-8. Enhancing key-value memory neural networks for knowledge based question answering（NAACL2019）
+1. The web as a knowledge-base for answering complex questions（NAACL2018）CWQ数据集 基于搜索引擎+RC回答子问题  [GitHub](https://github.com/alontalmor/WebAsKB)
+2. EDG-based Question Decomposition for ComplexQuestion Answering over Knowledge Bases(ISWC2021 南京大学)
+3. Complex question decomposition for semantic parsing（ACL 2020 国防科大）
+4. SPARQA: skeleton-based semantic parsing for complex questions over knowledge bases（AAAI 2020 南京大学）
+5. BREAK it down: A question understanding benchmark(TACL 2019 AI2)
+6. Text modular networks: learning to decompose tasks in the language of existing models(NAACL 2021 AI2)
+7. KQA Pro: A Large-Scale Dataset with Interpretable Programs and Accurate SPARQLs for Complex Question Answering over Knowledge Base（WWW2021 清华）
+8. Multi-hop reading comprehension through question decomposition and rescoring(ACL 2019 RC的分解)
+9. Unsupervised question decomposition for question answering （EMNLP 2020 FBAI）
+10. Enhancing key-value memory neural networks for knowledge based question answering（NAACL2019）
+
+
 
 ## **综述**
 
 1. Survey on challenges of Question Answering in the Semantic Web（Semantic Web2017）
-2. A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions （IJCAI 2021）
+2. A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions （IJCAI 2021 SMU 蓝韵诗）
 3. Core Techniques of Question Answering Systems over Knowledge Bases : a Survey（2017）
-4. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges（2020）阿里巴巴，中文翻译：[https://zhuanlan.zhihu.com/p/134090164](https://zhuanlan.zhihu.com/p/134090164)
+4. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges（2020 阿里巴巴），中文翻译：[https://zhuanlan.zhihu.com/p/134090164](https://zhuanlan.zhihu.com/p/134090164)
 5. Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs(2019)
 6. Question Answering over Curated and Open Web Sources (SIGIR2020 Tutorial)  [Slide](http://people.mpi-inf.mpg.de/~rsaharo/sigir20slides.pdf) 
 
