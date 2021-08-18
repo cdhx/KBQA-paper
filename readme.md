@@ -134,19 +134,27 @@ Created: Sep 4, 2020 4:31 PM
 
     简介：108442条（75910/10845/21687）Freebase  全是一个三元组就可以回答的问题
 
-6. **Free917**   [train](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/data/free917.train.examples.canonicalized.json.bz2)    [test](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/data/free917.test.examples.canonicalized.json.bz2)
-简介：917条  Freebase
+6. **Free917**  
+     [train](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/data/free917.train.examples.canonicalized.json.bz2)    [test](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/data/free917.test.examples.canonicalized.json.bz2)
+
+    简介：917条  Freebase
 7. **QALD series**:
 资源地址：[https://github.com/ag-sc/QALD](https://github.com/ag-sc/QALD)
 
     论文
+
     QALD-7: [https://svn.aksw.org/papers/2017/ESWC_2017_QALD/public.pdf](https://svn.aksw.org/papers/2017/ESWC_2017_QALD/public.pdf)
+
     QALD-8: [http://ceur-ws.org/Vol-2241/paper-05.pdf](http://ceur-ws.org/Vol-2241/paper-05.pdf)
+
     QALD-9: [http://ceur-ws.org/Vol-2241/paper-06.pdf](http://ceur-ws.org/Vol-2241/paper-06.pdf)
 
     评测地址
+
     QALD-7: [http://gerbil-qa.aksw.org/gerbil/experiment?id=201706300001](http://gerbil-qa.aksw.org/gerbil/experiment?id=201706300001)
+
     QALD-8: [http://gerbil-qa.aksw.org/gerbil/experiment?id=201710220000](http://gerbil-qa.aksw.org/gerbil/experiment?id=201710220000)
+
     QALD-9: [http://gerbil-qa.aksw.org/gerbil/experiment?id=201810080002](http://gerbil-qa.aksw.org/gerbil/experiment?id=201810080002)
 
 8. **LC-QuAD**: [http://lc-quad.sda.tech/lcquad1.0.html](http://lc-quad.sda.tech/lcquad1.0.html)
@@ -161,6 +169,7 @@ Created: Sep 4, 2020 4:31 PM
 
     wikidata，120K有SPARQL标注，KB子集
 11. **CRONKGQA** 
+
     [Question Answering over Temporal Knowledge Graphs（ACL2021)](https://aclanthology.org/2021.acl-long.520/)
 
     [github](https://github.com/apoorvumang/CronKGQA)
