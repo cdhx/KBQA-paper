@@ -119,13 +119,21 @@ Created: Sep 4, 2020 4:31 PM
 
     简介：2100条（1300/800）
 
-2. **ComplexWebQuestion**: The web as a knowledge-base for answering complex questions(NAACL2018)
-子问题的回答基于搜索引擎上的RC
+2. **ComplexWebQuestion**: 
+
+    The web as a knowledge-base for answering complex questions(NAACL2018)
+    
+    子问题的回答基于搜索引擎上的RC
 3. **WebQuestion** [train](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/lib/data/webquestions/dataset_11/webquestions.examples.train.json.bz2)   [test](http://nlp.stanford.edu/static/software/sempre/release-emnlp2013/lib/data/webquestions/dataset_11/webquestions.examples.test.json.bz2)
-论文：Semantic Parsing on Freebase from Question-Answer Pairs（EMNLP2013斯坦福）
-简介：5810条（3778/2032） 斯坦福大学，根据Google Suggest API构建
-4. **WebQuestionSP**:Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base（ACL 2015）
-微软yih-wen tau
+
+    论文：Semantic Parsing on Freebase from Question-Answer Pairs（EMNLP2013斯坦福）
+
+    简介：5810条（3778/2032） 斯坦福大学，根据Google Suggest API构建
+4. **WebQuestionSP**:
+
+    Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base（ACL 2015）
+    
+    微软yih-wen tau
 5. **SimpleQuestion**
 
     论文：[Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/pdf/1506.02075.pdf)（2015）
