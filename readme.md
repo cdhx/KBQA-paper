@@ -81,16 +81,17 @@ Created: Sep 4, 2020 4:31 PM
 
 1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text（NAACL 2019）([Falcon系统](https://labs.tib.eu/falcon/) [GitHub](https://github.com/AhmadSakor/falcon))
 2. EARL: Joint entity and relation linking for question answering over knowledge graphs （ISWC 2018）
-3. Leveraging semantic parsing for relation linking over knowledge bases (ISWC2020 IBM Waston) (SOTA)
-4. FALCON 2.0: An Entity and Relation Linking Tool over Wikidata （ISWC 2019）（[Falcon2.0](https://labs.tib.eu/falcon/falcon2/)  [GitHub](https://github.com/SDM-TIB/Falcon2.0)）（开源系统SOTA）
-5. Scalable knowledge graph construction over text using deep learning based predicate mapping （WWW2019）
-6. Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering(ACL2019 南京大学)
-7. PATTY: A taxonomy of relational patterns with semantic types （EMNLP 2012 马普所）
-8. Towards Combinational Relation Linking over Knowledge Graphs （复旦）
+3. Leveraging semantic parsing for relation linking over knowledge bases (ISWC2020 IBM Watson) (SOTA)
+4. Generative Relation Linking for Question Answering over Knowledge Bases(ISWC2021 IBM Watson)
+5. FALCON 2.0: An Entity and Relation Linking Tool over Wikidata （ISWC 2019）（[Falcon2.0](https://labs.tib.eu/falcon/falcon2/)  [GitHub](https://github.com/SDM-TIB/Falcon2.0)）（开源系统SOTA）
+6. Scalable knowledge graph construction over text using deep learning based predicate mapping （WWW2019）
+7. Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering(ACL2019 南京大学)
+8. PATTY: A taxonomy of relational patterns with semantic types （EMNLP 2012 马普所）
+9. Towards Combinational Relation Linking over Knowledge Graphs （复旦）
 
 ### **Entity Linking**
 
-1. LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking （ACL2021 IBM Waston）
+1. LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking （ACL2021 IBM Watson）
 2. Autoregressive entity retrieval(ICLR 2021 FBAI)
 3. Efficient One-Pass End-to-End Entity Linking for Questions(EMNLP 2020 FBAI)
 4. Scalable Zero-shot Entity Linking with Dense Entity Retrieval(EMNLP 2020 FBAI)
