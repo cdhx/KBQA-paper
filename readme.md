@@ -68,7 +68,7 @@ Created: Sep 4, 2020 4:31 PM
 
 1. Survey on challenges of Question Answering in the Semantic Web（Semantic Web2017）
 2. A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions （IJCAI 2021 SMU 蓝韵诗）
-3. Complex Knowledge Base Question Answering:A Survey(蓝韵诗)
+3. Complex Knowledge Base Question Answering:A Survey(蓝韵诗 2021)
 4. Core Techniques of Question Answering Systems over Knowledge Bases : a Survey（2017）
 5. A Survey on Complex Question Answering over Knowledge Base: Recent Advances and Challenges（2020 阿里巴巴），中文翻译：[https://zhuanlan.zhihu.com/p/134090164](https://zhuanlan.zhihu.com/p/134090164)
 6. Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs(2019)
