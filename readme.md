@@ -16,10 +16,11 @@ Created: Sep 4, 2020 4:31 PM
 1. Semantic parsing via staged query graph generation: Question answering with knowledge base(ACL2015 MS Wen-tau Yih) SP方法开山之作
 2. Formal Query Building with Query Structure Prediction for Complex Question Answering over Knowledge Base(AAAI2020 东南大学陈永锐)
 3. SPARQA: skeleton-based semantic parsing for complex questions over knowledge bases（AAAI 2020 南京大学）
-4. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases(ACL2020 SMU 蓝韵诗)
-5. Knowledge base question answering via encoding of complex query graphs(EMNLP2018 上交)
-6. A state-transition framework to answer complex questions over knowledge base(EMNLP2018 北大胡森)
-7. Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases（ACL2020）
+4. Leveraging Frequent Query Substructures to Generate Formal Queries for Complex Question Answering （EMNLP 2019 南京大学）
+5. Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases(ACL2020 SMU 蓝韵诗)
+6. Knowledge base question answering via encoding of complex query graphs(EMNLP2018 上交)
+7. A state-transition framework to answer complex questions over knowledge base(EMNLP2018 北大胡森)
+8. Answering Complex Questions by Combining Information from Curated and Extracted Knowledge Bases（ACL2020）
 
 ### **IR**
 1. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text（EMNLP 2018 Googel Sun haitian)
