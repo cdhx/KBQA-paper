@@ -40,15 +40,19 @@ Created: Sep 4, 2020 4:31 PM
 
 ### **Seq2Seq**
 
-1. Constraint-based question answering with knowledge graph(COLING2016)
-2. Sequence-based structured prediction for semantic parsing(ACL2016)
-3. Language to logical form with neural attention(ACL2016)
-4. Neural symbolic machines: Learning semantic parsers on freebase with weak supervision(ACL2017)
-5. Learning a neural semantic parser from user feedback(ACL2017)
-6. Coarse-to-fine decoding for neural semantic parsing(ACL2018)
-7. A syntactic neural model for general-purpose code generation（ACL2017）
-8. Sequence-to-action: End-to-end semantic graph generation for semantic parsing(ACL2018)
-9. Language to logical form with neural attention（ACL2016）
+1. KQA Pro: A Large-Scale Dataset with Interpretable Programs and Accurate SPARQLs for Complex Question Answering over Knowledge Base(ACL2022)
+2. SKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models
+3. Unseen Entity Handling in Complex Question Answering over Knowledge Base via Language Generation(EMNLP2021)
+4. RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering(ACL2022)
+5. Constraint-based question answering with knowledge graph(COLING2016)
+6. Sequence-based structured prediction for semantic parsing(ACL2016)
+7. Language to logical form with neural attention(ACL2016)
+8. Neural symbolic machines: Learning semantic parsers on freebase with weak supervision(ACL2017)
+9. Learning a neural semantic parser from user feedback(ACL2017)
+10. Coarse-to-fine decoding for neural semantic parsing(ACL2018)
+11. A syntactic neural model for general-purpose code generation（ACL2017）
+12. Sequence-to-action: End-to-end semantic graph generation for semantic parsing(ACL2018)
+13. Language to logical form with neural attention（ACL2016）
 
 ### **复杂问题分解**
 
@@ -77,8 +81,6 @@ Created: Sep 4, 2020 4:31 PM
 
 ## **子任务**
 
-### **NER**
-
 ### **Relation Linking/Detection**
 
 1. Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text（NAACL 2019）([Falcon系统](https://labs.tib.eu/falcon/) [GitHub](https://github.com/AhmadSakor/falcon))
@@ -90,6 +92,9 @@ Created: Sep 4, 2020 4:31 PM
 7. Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering(ACL2019 南京大学)
 8. PATTY: A taxonomy of relational patterns with semantic types （EMNLP 2012 马普所）
 9. Towards Combinational Relation Linking over Knowledge Graphs （复旦）
+10. LEVERAGING SEMANTIC PARSING FOR RELATION LINKING OVER KNOWLEDGE BASES(ISWC2021)
+11. LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking(ACL21)
+12. EntQA: Entity Linking as Question Answering(ICLR2022)
 
 ### **Entity Linking**
 
@@ -170,6 +175,9 @@ Created: Sep 4, 2020 4:31 PM
 
 8. **LC-QuAD**: [http://lc-quad.sda.tech/lcquad1.0.html](http://lc-quad.sda.tech/lcquad1.0.html)
 9. **LC-QuAD 2.0**: [http://lc-quad.sda.tech/](http://lc-quad.sda.tech/)
+    ```
+    Question Answering over Knowledge Graphs with Neural Machine Translation and Entity Linking
+    ```
 10. **KQA Pro** 
     
     [KQA Pro: A Large-Scale Dataset with Interpretable Programs and Accurate SPARQLs for Complex Question Answering over Knowledge Base(WWW 2021 清华)](https://arxiv.org/abs/2007.03875)
