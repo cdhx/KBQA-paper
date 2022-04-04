@@ -95,6 +95,8 @@ Created: Sep 4, 2020 4:31 PM
 10. LEVERAGING SEMANTIC PARSING FOR RELATION LINKING OVER KNOWLEDGE BASES(ISWC2021)
 11. LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking(ACL21)
 12. EntQA: Entity Linking as Question Answering(ICLR2022)
+13. A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering(ACL21 IBM, QALD9,LC1,2,simplequestion)
+
 
 ### **Entity Linking**
 
