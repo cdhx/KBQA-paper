@@ -69,7 +69,8 @@ Created: Sep 4, 2020 4:31 PM
 11. Did aristotle use a laptop? A question answering benchmark with implicit reasoning strategies(TACL2020) QDMR的结构
 12. MuSiQue: Multi-hop Questions via Single-hop Question Composition(TACL 2022) QDMR的结构
 13. Break, Perturb, Build : Automatic Perturbation of Reasoning Paths Through Question Decomposition(TACL2022) QDMR的结构
-14. SPARQLing Database Queries from Intermediate Question Decompositions(EMNLP2021) QDMR的结构
+14. SPARQLing Database Queries from Intermediate Question Decompositions(EMNLP2021) QDMR的结构 text2sql
+15. Weakly Supervised Mapping of Natural Language to SQL through Question Decomposition  QDMR的结构 text2sql
 
 
 
